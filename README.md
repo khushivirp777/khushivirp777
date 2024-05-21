@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php,html,css,javascript,jquery,mysql,reactjs,nodejs,ml,cv,ai
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me khushivirpariya@gmail.com
-- 😄 Pronouns: Khushi
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: 
 
 <!---
