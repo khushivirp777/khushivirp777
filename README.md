@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP, HTML, CSS, JavaScript, JQuery, MySQL, ReactJS, NodeJS, ML, CV, AI, Git, Python**
 
-- 👯 I’m looking to collaborate on **Open ource projects**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 📝 I regularly write articles on [https://medium.com/@khushivirpariya](https://medium.com/@khushivirpariya)
 
