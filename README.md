@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 📝 I regularly write articles on [https://medium.com/@khushivirpariya](https://medium.com/@khushivirpariya)
+- 📝 I regularly write articles on **[https://medium.com/@khushivirpariya](https://medium.com/@khushivirpariya)**
 
 - 📫 How to reach me **khushivirpariya@gmail.com**
 
